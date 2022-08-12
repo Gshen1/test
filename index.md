@@ -9,3 +9,5 @@ vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.219.91.92:80?encryption=none&secu
 vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.219.15.77:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC2
 vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.210.84.240:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC3
 vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.219.9.192:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC4
+
+软件在右下角一个蓝色的 V ：右键-系统代理-自动配置系统代理
