@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Ctrl+C 复制一下链接，Ctrl+V 粘贴到软件当中
 
-You can use the [editor on GitHub](https://github.com/Gshen1/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gshen1/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+vless://8afda205-d2fa-4fcd-a743-590e306bda72@8.219.91.92:80?encryption=none&security=none&type=ws&host=cloud.xiang.lol&path=%2Fray#%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%AD%E8%BD%AC1
+vless://8afda205-d2fa-4fcd-a743-590e306bda72@8.219.15.77:80?encryption=none&security=none&type=ws&host=cloud.xiang.lol&path=%2Fray#%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%AD%E8%BD%AC2
+vless://8afda205-d2fa-4fcd-a743-590e306bda72@8.210.84.240:80?encryption=none&security=none&type=ws&host=cloud.xiang.lol&path=%2Fray#%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%AD%E8%BD%AC3
+vless://8afda205-d2fa-4fcd-a743-590e306bda72@8.219.9.192:80?encryption=none&security=none&type=ws&host=cloud.xiang.lol&path=%2Fray#%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%AD%E8%BD%AC4
+vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@cloud.guox.lol:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC
+vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.219.91.92:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC1
+vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.219.15.77:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC2
+vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.210.84.240:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC3
+vless://6a643add-3025-4ddd-a7e9-042a6a18dc0a@8.219.9.192:80?encryption=none&security=none&type=ws&host=cloud.guox.lol&path=%2Fray#%E9%9F%A9%E5%9B%BD%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC4
