@@ -1,4 +1,4 @@
-Ctrl+C 复制一下链接，Ctrl+V 粘贴到软件当中
+Ctrl+C 复制以下链接，Ctrl+V 粘贴到软件当中
 
 vless://8afda205-d2fa-4fcd-a743-590e306bda72@8.219.91.92:80?encryption=none&security=none&type=ws&host=cloud.xiang.lol&path=%2Fray#%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%AD%E8%BD%AC1
 vless://8afda205-d2fa-4fcd-a743-590e306bda72@8.219.15.77:80?encryption=none&security=none&type=ws&host=cloud.xiang.lol&path=%2Fray#%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%AD%E8%BD%AC2
